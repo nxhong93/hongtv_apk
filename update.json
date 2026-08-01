@@ -1,7 +1,7 @@
 {
-    "versionCode": 3,
-    "versionName": "3.0",
-    "updateUrl": "https://github.com/nxhong93/hongtv_apk/releases/download/v3.0/hongtv.apk",
-    "updateMessage": "Cập nhật mới.",
+    "versionCode": 4,
+    "versionName": "4.0",
+    "updateUrl": "https://github.com/nxhong93/hongtv_apk/releases/download/v4.0/hongtv.apk",
+    "updateMessage": "Cập nhật phim vnstream.",
     "isMandatory": true
 }
