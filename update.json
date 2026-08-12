@@ -1,7 +1,7 @@
 {
-    "versionCode": 6,
-    "versionName": "5.1",
-    "updateUrl": "https://github.com/nxhong93/hongtv_apk/releases/download/5.1/hongtv.apk",
-    "updateMessage": "fix film, update gavang33, nauxoi",
+    "versionCode": 7,
+    "versionName": "5.2",
+    "updateUrl": "https://github.com/nxhong93/hongtv_apk/releases/download/5.2/hongtv.apk",
+    "updateMessage": "update motchill",
     "isMandatory": true
 }
