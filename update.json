@@ -1,7 +1,7 @@
 {
-    "versionCode": 7,
-    "versionName": "5.2",
-    "updateUrl": "https://github.com/nxhong93/hongtv_apk/releases/download/5.2/hongtv.apk",
-    "updateMessage": "update motchill",
+    "versionCode": 8,
+    "versionName": "5.3",
+    "updateUrl": "https://github.com/nxhong93/hongtv_apk/releases/download/5.3/hongtv.apk",
+    "updateMessage": "Fix thethao",
     "isMandatory": true
 }
