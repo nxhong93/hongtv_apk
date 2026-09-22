@@ -1,7 +1,7 @@
 {
-    "versionCode": 14,
-    "versionName": "5.5",
-    "updateUrl": "https://github.com/nxhong93/hongtv_apk/releases/download/5.5/hongtv.apk",
-    "updateMessage": "update live, video",
+    "versionCode": 15,
+    "versionName": "5.5.1",
+    "updateUrl": "https://github.com/nxhong93/hongtv_apk/releases/download/5.5.1/hongtv.apk",
+    "updateMessage": "Fix lag",
     "isMandatory": true
 }
