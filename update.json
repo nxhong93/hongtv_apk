@@ -1,7 +1,7 @@
 {
-    "versionCode": 17,
-    "versionName": "5.5.3",
-    "updateUrl": "https://github.com/nxhong93/hongtv_apk/releases/download/5.5.3/hongtv.apk",
-    "updateMessage": "update phalang",
+    "versionCode": 18,
+    "versionName": "5.6",
+    "updateUrl": "https://github.com/nxhong93/hongtv_apk/releases/download/v5.6/hongtv.apk",
+    "updateMessage": "update nembien and run server",
     "isMandatory": true
 }
