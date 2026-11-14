@@ -1,7 +1,7 @@
 {
-    "versionCode": 23,
-    "versionName": "5.6.5",
-    "updateUrl": "https://github.com/nxhong93/hongtv_apk/releases/download/5.6.5/hongtv.apk",
-    "updateMessage": "update xoigac, tv360+",
+    "versionCode": 24,
+    "versionName": "5.7",
+    "updateUrl": "https://github.com/nxhong93/hongtv_apk/releases/download/5.7/hongtv.apk",
+    "updateMessage": "Dùng phím play để chọn kênh bằng giọng nói",
     "isMandatory": true
 }
