@@ -1,7 +1,7 @@
 {
-    "versionCode": 25,
-    "versionName": "5.7.1",
-    "updateUrl": "https://github.com/nxhong93/hongtv_apk/releases/download/5.7.1/hongapk.apk",
-    "updateMessage": "fix kênh quốc tế",
+    "versionCode": 26,
+    "versionName": "5.7.2",
+    "updateUrl": "https://github.com/nxhong93/hongtv_apk/releases/download/5.7.2/hongtv.apk",
+    "updateMessage": "fix motchill, xoilac",
     "isMandatory": true
 }
