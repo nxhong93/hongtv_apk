@@ -1,7 +1,7 @@
 {
-    "versionCode": 27,
-    "versionName": "5.7.3",
-    "updateUrl": "https://github.com/nxhong93/hongtv_apk/releases/download/5.7.3/hongtv.apk",
-    "updateMessage": "update trada, fix xoilac",
+    "versionCode": 28,
+    "versionName": "5.7.4",
+    "updateUrl": "https://github.com/nxhong93/hongtv_apk/releases/download/5.7.4/hongtv.apk",
+    "updateMessage": "update rophim, kênh prime phim",
     "isMandatory": true
 }
